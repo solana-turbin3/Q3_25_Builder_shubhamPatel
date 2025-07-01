@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+target/
+# Wallet and sensitive files
+*wallet.json
+*_wallet.json
+id.json
+dev_wallet.json
+Turbine_wallet.json
+
+# Package manager lock files
+yarn.lock
+package-lock.json
+Cargo.lock
