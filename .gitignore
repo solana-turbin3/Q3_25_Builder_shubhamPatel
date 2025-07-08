@@ -12,3 +12,4 @@ Turbine_wallet.json
 yarn.lock
 package-lock.json
 Cargo.lock
+.DS_Store
